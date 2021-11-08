@@ -1,4 +1,4 @@
-# khan-bot
+# Khan Academy Bot
 Scripts / extensions to assist in completing Khan Academy assignments. Obviously only for education purposes ;)
 
 <img src='https://lh3.googleusercontent.com/Tznulo6CLTwqJp8jJm4tzeEsUxx9kvENebQaQj5YiJD5RmJ2PCZ1Hp1H-_tKr4ZAiSiI4oNtkcX8cpMfJxFu9d1uqA=w640-h400-e365-rj-sc0x00ffffff'>
