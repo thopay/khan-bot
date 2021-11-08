@@ -1,7 +1,7 @@
 # khan-bot
 Scripts / extensions to assist in completing Khan Academy assignments. Obviously only for education purposes ;)
 
-![Chrome Extension Demo](https://chrome.google.com/webstore/detail/sawkhan/foincoeeeicfjhmfmbfcgoodkkfodfke)
+[Chrome Extension Demo](https://chrome.google.com/webstore/detail/sawkhan/foincoeeeicfjhmfmbfcgoodkkfodfke)
 
 Usage instructions for the chrome extension:
 1. Clone the chrome extension folder
